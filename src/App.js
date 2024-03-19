@@ -7,6 +7,7 @@ function App() {
       <h3>jubair</h3>
       <p>frontend branch</p>
 stash filr added
+      <p>hi stash</p>
     </div>
   );
 }
