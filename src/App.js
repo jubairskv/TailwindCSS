@@ -6,6 +6,7 @@ function App() {
      <h2>new line add to git hub</h2>
       <h3>jubair</h3>
       <p>frontend branch</p>
+stash filr added
     </div>
   );
 }
